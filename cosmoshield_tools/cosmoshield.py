@@ -1,7 +1,7 @@
 import json
 
-from .interbloc_api_client.client import Client
-from .interbloc_api_client.api.cosmoshield import (
+from interbloc_api_client.client import Client
+from interbloc_api_client.api.cosmoshield import (
     get_all_blacklisted_domains_cosmoshield_domains_blacklist_get as get_all_blacklisted_domains
 )
 

@@ -3,7 +3,7 @@ from pathlib import Path
 
 import click
 
-from cosmoshield_tools.cosmoshield import get_blacklisted_domains
+from cosmoshield import get_blacklisted_domains
 
 
 ASSET_DIR = 'assets'
