@@ -1,0 +1,5 @@
+attrs==21.4.0
+autoflake==1.4
+httpx==0.22.0
+isort==5.10.1
+python-dateutil==2.8.2
